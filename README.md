@@ -1,7 +1,13 @@
-# Cviceni-indexy-jmena
-## Cvičení na práci s indexy
+# Python Basic Tasks
+This repository contains simple scripts, all in czech, knowledge level - basic, programming language Python.
 
 '''
 Python
-Jednoduchy program, na kterem jsem procvicila indexovani jmena a nektere funkcionality jako velka, mala pismena, inicialy, vstup od uzivatele a dalsi.
 '''
+
+Script overview
+* PrvniKalkulacka
+* JmenoIndexy 
+* VelikostPismen
+* DataTypes
+* SlovnikKliceHodnoty
