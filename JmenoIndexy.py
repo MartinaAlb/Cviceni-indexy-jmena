@@ -57,5 +57,5 @@ except:
 # celé jméno, spojení jména a příjmení pomocí .join
 cele_jmeno = (" ".join([jmeno, prijmeni]))
 print(f"Tvoje jméno a příjmení je {cele_jmeno} ")
-
+print("--------")
 print("To je vše o tvém jméně")
