@@ -1,4 +1,7 @@
-# indexujeme jméno
+"""
+Simple script to practice: user's input, string indexes, string formating.
+In Czech, english version is not available.
+"""
 
 print("Napiš svoje jméno")
 jmeno = str(input())
